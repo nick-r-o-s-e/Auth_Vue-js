@@ -43,7 +43,7 @@ This is a Vue.js 3 frontend application that connects to a Laravel 11 backend fo
 
 ### Prerequisites
 
-- This https://github.com/nick-r-o-s-e/ Laravel API should be running.
+- This https://github.com/nick-r-o-s-e/Auth_Laravel-API Laravel API should be running.
 
 - Install Node.js (latest stable version recommended).
 
