@@ -1,4 +1,4 @@
-# Vue.js 3 Authentication Frontend
+# Vue.js Authentication Frontend
 
 ## Table of Contents
 
