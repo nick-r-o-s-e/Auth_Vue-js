@@ -8,7 +8,11 @@
 
 ## About
 
+### Hosted App: https://auth-vue-project.vercel.app
+
 This is a Vue.js 3 frontend application that connects to a Laravel 11 backend for user authentication and authorization. It features a structured form system, error handling, and password reset functionality via email.
+
+
 
 ## Key Features
 
