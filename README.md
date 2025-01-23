@@ -5,7 +5,6 @@
 - [About](#about)
 - [Getting Started](#getting-started)
 - [Key Features](#key-features)
-- [Project Status](#project-status)
 
 ## About
 
